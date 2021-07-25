@@ -3,4 +3,5 @@ A model of a traffic intersection which can sense the presence of cars using 4 p
 
 The physical model was made using household materials (i.e. shoebox, paper), and the system itself is powered by Arduino, with the source code in this repository.
 
-![Schematic](https://github.com/tejaswilkhoo/Street-Sensor-System/blob/main/images/finalproduct.png)
+![Final Model](https://github.com/tejaswilkhoo/Street-Sensor-System/blob/main/images/finalproduct.png)
+![Schematic](https://github.com/tejaswilkhoo/Street-Sensor-System/blob/main/images/schematic.png)
